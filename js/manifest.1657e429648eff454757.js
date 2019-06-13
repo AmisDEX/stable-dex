@@ -52,7 +52,7 @@
         c.async = !0,
         c.timeout = 12e4,
         o.nc && c.setAttribute("nonce", o.nc),
-        c.src = o.p + "js/" + e + "." + {
+        c.src = o.p + "stable-dex/js/" + e + "." + {
             0: "319727d63cf9f2f08b2e",
             1: "70b444b922616922d950",
             2: "e19e801d624689869d13",
